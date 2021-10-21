@@ -1,0 +1,8 @@
+{
+    "products": [
+        { "name": "tarvuz", "quantity": 100 },
+        { "name": "qovun", "quantity": 150 },
+        { "name": "olma", "quantity": 3 },
+        { "name": "mango", "quantity": 30 }
+    ]
+}
