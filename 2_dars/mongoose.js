@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 const { Schema } = require("mongoose")
-let url = "mongodb+srv://Uroljon:Uroljon@cluster0.qbdew.mongodb.net/Telegram"
+let url = "null"
 
 const client = mongoose.connect(url)
     .then(_ => console.log("MongoDB ga ulanvoldim Shef"))//promise yechilyapti
